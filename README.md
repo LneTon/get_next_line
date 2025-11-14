@@ -9,4 +9,6 @@ It uses static variables, dynamic memory allocation, and buffer management to ha
 
 make
 
+```
+
 Include get_next_line.h in your project and compile with the generated get_next_line.c to use the function.
